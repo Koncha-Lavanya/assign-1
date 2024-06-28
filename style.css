@@ -1,0 +1,46 @@
+body{
+    background-color:cadetblue;
+}
+h1{
+    text-align: center;
+}
+.intro{
+    margin:50px;
+    padding: 50px;
+    line-height:10px;
+    
+}
+div h2:nth-child(3){
+    color:orange
+    
+}
+a{
+    margin:10px;
+    height:10px;
+    border:2px solid #000;
+    color:black;
+    background-color:darkorchid;
+    text-decoration: none;
+    border-radius: 2px;
+}
+a:hover{
+    color:red;
+}
+.images{
+    border-radius: 10px;
+}
+
+.contact[h2]{
+    color:black;
+    margin:30px;
+    padding:30px;
+    height: auto;   
+}
+.thanks{
+    margin-left:200px;
+    padding:50px;
+    display:center;
+    color: blue;
+}
+
+    
